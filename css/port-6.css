@@ -423,9 +423,11 @@ header{
 .four__grid-items{
     display: grid;
     grid-template-columns: 1fr 1fr;
+    grid-gap: 1.5em;
     width: 80vw;
     margin: 2em auto;
     justify-content: center;
+    
 }
 .three__grid-items{
     position: relative;
