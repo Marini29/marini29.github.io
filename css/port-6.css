@@ -528,6 +528,7 @@ header{
     }
     .back_img{
         display: block;
+        width: 90vh;
     }
 
     header{
