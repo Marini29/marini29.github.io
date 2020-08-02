@@ -481,6 +481,7 @@ header{
     }
 }
 
+
 /* Project items page*/
 
 .portfolio-item-individual{
@@ -517,11 +518,18 @@ header{
     font-size: var(--fs-h2);
     font-weight: var(--fw-reg);
 }
+.back_img{
+    display: none;
+}
 /*Media*/
 @media (max-width: 600px){
     #videoBG {
         display: none;
     }
+    .back_img{
+        display: block;
+    }
+
     header{
         padding: 1em;
         margin-bottom: 2.5em;
