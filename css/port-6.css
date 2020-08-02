@@ -459,7 +459,6 @@ header{
 .video__container{
     position: relative;
     display: flex;
-    
 }
 .video__wrapper{
     width: 100vw;
