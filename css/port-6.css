@@ -475,6 +475,11 @@ pointer-events: none;
     object-fit: cover;
     pointer-events: none;
 }
+.video__wrapper_y{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
 
 @media (min-aspect-ratio: 16/9) {
     #videoBG {
