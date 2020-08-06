@@ -429,6 +429,11 @@ header{
     justify-content: center;
     
 }
+.port__img-top{
+height: 80vh;
+margin: 0 auto;
+justify-content: center;
+}
 .three__grid-items{
     position: relative;
     display: grid;
