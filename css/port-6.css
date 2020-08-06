@@ -404,11 +404,13 @@ header{
     width: 80vw;
     margin: 0 auto;
     justify-content: center;
+    pointer-events: none;
 }
 .port__img3{
     width: 60vw;
     margin: 0.5em auto;
     justify-content: center;
+    pointer-events: none;
 }
 .caption{
     font-size: var(--fs-fot);
@@ -418,7 +420,7 @@ header{
     width: 80vw;
     margin: 2em auto;
     justify-content: center;
-
+    pointer-events: none;
 }
 .four__grid-items{
     display: grid;
@@ -427,12 +429,14 @@ header{
     width: 80vw;
     margin: 2em auto;
     justify-content: center;
+    pointer-events: none;
     
 }
 .port__img-top{
 height: 80vh;
 margin: 0 auto;
 justify-content: center;
+pointer-events: none;
 }
 .three__grid-items{
     position: relative;
@@ -469,6 +473,7 @@ justify-content: center;
     width: 100vw;
     height: 100vh;
     object-fit: cover;
+    pointer-events: none;
 }
 
 @media (min-aspect-ratio: 16/9) {
