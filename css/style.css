@@ -632,11 +632,32 @@ header{
     transition: 1s;
     color:transparent;
 }
+.port-tag{
+    position: absolute;
+    bottom: 2em;
+    left: 2em;
+    padding: .5em .5em;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: left;
+    text-align: center;
+    font-family: var(--ff-secondary);
+    font-weight: var(--fw-reg);
+    z-index: 3;
+    transition: 1s;
+    color: var(--clr-light);
+}
+
 
 .name_light{
     transition: 1s;
     color: var(--clr-light);
     background: var(--clr-dark--op);
+}
+.tag_light{
+    transition: 1s;
+    color: transparent;
 }
 
 @media (min-width: 900px ){

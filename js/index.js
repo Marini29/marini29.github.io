@@ -3,6 +3,7 @@ const navLink = document.querySelectorAll('.nav__link');
 
 //This is for the class---------------------------------------------------
 const portfolioItems = document.querySelectorAll('.port-img')
+const portfolioItems1 = document.querySelectorAll('.port-tag')
 portfolioItems.forEach(portfolioItem =>{
     portfolioItem.addEventListener('mouseover', ()=>{
         portfolioItem.childNodes[3].classList.add('name_light');
