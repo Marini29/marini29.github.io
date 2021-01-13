@@ -470,6 +470,12 @@
             ],
             "name" : "Material_1.004",
             "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.9130987524986267,
+                    0.9215821027755737,
+                    0.9215821027755737,
+                    1
+                ],
                 "metallicFactor" : 1,
                 "roughnessFactor" : 0.5527864098548889
             }
@@ -483,6 +489,12 @@
             ],
             "name" : "Material_1.001",
             "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.44520121812820435,
+                    0.44520121812820435,
+                    0.44520121812820435,
+                    1
+                ],
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5527864098548889
             }
@@ -496,6 +508,12 @@
             ],
             "name" : "Material_1",
             "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.5711251497268677,
+                    0.020288458094000816,
+                    0.06662598997354507,
+                    1
+                ],
                 "metallicFactor" : 1,
                 "roughnessFactor" : 0.5529999732971191
             }
@@ -509,6 +527,12 @@
             ],
             "name" : "Material_1.002",
             "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.31854674220085144,
+                    0.7912982106208801,
+                    0.11953850090503693,
+                    1
+                ],
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5527864098548889
             }
@@ -523,13 +547,13 @@
             "name" : "Material",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
-                    0,
-                    0,
-                    0,
+                    0.03560134023427963,
+                    0.03560132905840874,
+                    0.035601332783699036,
                     1
                 ],
                 "metallicFactor" : 0,
-                "roughnessFactor" : 0.4000000059604645
+                "roughnessFactor" : 0.9309091567993164
             }
         }
     ],
