@@ -429,10 +429,10 @@ header{
 
 .my-services{
     background-color: var(--clr-dark--op);
-    background-image: url(../img/Cover_design.png);
+    background-image: url(../img/background_2.jpg);
     background-position: center;
     background-size: cover;
-    background-blend-mode: multiply;
+    background-blend-mode: normal;
     color: var(--clr-light);
     text-align: center;
     justify-content: center;
